@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render initial layout 1`] = `
+Array [
+  <div
+    className="logo"
+  >
+    <div
+      className="logo__circle"
+    />
+    <div
+      className="logo__name"
+    >
+      Recruitment task
+    </div>
+    <div
+      className="logo__line"
+    />
+  </div>,
+]
+`;

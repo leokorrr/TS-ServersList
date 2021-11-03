@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render initial layout 1`] = `
+Array [
+  <tr
+    className="table-row"
+  >
+    <th
+      className="table-row__cell table-row__cell--header"
+    >
+      Name
+    </th>
+    <th
+      className="table-row__cell table-row__cell--header"
+      colSpan={2}
+    >
+      Status
+    </th>
+  </tr>,
+]
+`;

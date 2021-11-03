@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render initial layout 1`] = `
+Array [
+  <tr
+    className="table-row"
+  >
+    <td
+      className="table-row__cell table-row__cell--name"
+    >
+      
+    </td>
+    <td
+      className="table-row__cell table-row__cell--status"
+    >
+      <div
+        className="green"
+      >
+        <img
+          alt="on"
+          src="serverOn.svg"
+        />
+        ONLINE
+      </div>
+    </td>
+    <td
+      className="table-row__cell"
+    >
+      <div
+        className="table-row__cell-more"
+      >
+        <div>
+          <button
+            className="table-row__button-more"
+            onClick={[Function]}
+          >
+            <img
+              alt="more"
+              src="more.svg"
+            />
+          </button>
+        </div>
+      </div>
+    </td>
+  </tr>,
+]
+`;

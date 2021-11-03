@@ -1,0 +1,9 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    
+    & > div {
+        max-width: 110.6rem;
+        width: 100%;
+    }
+}
